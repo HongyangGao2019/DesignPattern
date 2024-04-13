@@ -1,0 +1,14 @@
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
