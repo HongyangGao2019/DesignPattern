@@ -1,0 +1,15 @@
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.exe
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.deps.json
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.runtimeconfig.json
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\bin\Debug\net8.0\FacadePattern.pdb
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.AssemblyInfoInputs.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.AssemblyInfo.cs
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.sourcelink.json
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\refint\FacadePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.pdb
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\FacadePattern.genruntimeconfig.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\FacadePattern\obj\Debug\net8.0\ref\FacadePattern.dll
