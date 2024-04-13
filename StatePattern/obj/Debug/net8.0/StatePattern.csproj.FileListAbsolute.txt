@@ -1,0 +1,15 @@
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\bin\Debug\net8.0\StatePattern.exe
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\bin\Debug\net8.0\StatePattern.deps.json
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\bin\Debug\net8.0\StatePattern.runtimeconfig.json
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\bin\Debug\net8.0\StatePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\bin\Debug\net8.0\StatePattern.pdb
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.AssemblyInfo.cs
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.sourcelink.json
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\refint\StatePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.pdb
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\StatePattern.genruntimeconfig.cache
+C:\Users\Gahoyo\Desktop\DesignPattern\StatePattern\obj\Debug\net8.0\ref\StatePattern.dll
