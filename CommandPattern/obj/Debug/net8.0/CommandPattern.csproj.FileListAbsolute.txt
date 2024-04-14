@@ -12,3 +12,4 @@ C:\Users\Gahoyo\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\refint\Com
 C:\Users\Gahoyo\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\CommandPattern.pdb
 C:\Users\Gahoyo\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\CommandPattern.genruntimeconfig.cache
 C:\Users\Gahoyo\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\ref\CommandPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\CommandPattern.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\Gahoyo\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\refint\P
 C:\Users\Gahoyo\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.pdb
 C:\Users\Gahoyo\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.genruntimeconfig.cache
 C:\Users\Gahoyo\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\ref\PrototypePattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.sourcelink.json

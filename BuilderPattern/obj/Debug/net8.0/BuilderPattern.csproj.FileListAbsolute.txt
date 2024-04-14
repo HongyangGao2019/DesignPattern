@@ -12,3 +12,4 @@ C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\refint\Bui
 C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
 C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
 C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json

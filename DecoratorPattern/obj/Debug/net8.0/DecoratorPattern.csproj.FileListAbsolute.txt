@@ -12,3 +12,4 @@ C:\Users\Gahoyo\Desktop\DesignPattern\DecoratorPattern\obj\Debug\net8.0\refint\D
 C:\Users\Gahoyo\Desktop\DesignPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
 C:\Users\Gahoyo\Desktop\DesignPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
 C:\Users\Gahoyo\Desktop\DesignPattern\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.sourcelink.json

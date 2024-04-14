@@ -12,3 +12,4 @@ C:\Users\Gahoyo\Desktop\DesignPattern\ProxyPattern\obj\Debug\net8.0\refint\Proxy
 C:\Users\Gahoyo\Desktop\DesignPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.pdb
 C:\Users\Gahoyo\Desktop\DesignPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.genruntimeconfig.cache
 C:\Users\Gahoyo\Desktop\DesignPattern\ProxyPattern\obj\Debug\net8.0\ref\ProxyPattern.dll
+C:\Users\Gahoyo\Desktop\DesignPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.sourcelink.json
