@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemplateMethodPattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9e73f728846f7d773c19370643d4541a175eb9")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c227eda7c0ae75db8f2e2e69c7edb94e084e6d2")]
+>>>>>>> be9e73f728846f7d773c19370643d4541a175eb9
 [assembly: System.Reflection.AssemblyProductAttribute("TemplateMethodPattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemplateMethodPattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
