@@ -14,5 +14,5 @@ namespace AdapterPattern
         {
             Console.WriteLine("我只会说中文。");
         }
-    }
+    } 
 }
